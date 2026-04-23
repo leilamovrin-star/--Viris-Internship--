@@ -590,6 +590,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn3 {
@@ -598,6 +600,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn4 {
@@ -606,6 +610,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn5 {
@@ -614,6 +620,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn6 {
@@ -622,6 +630,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn7 {
@@ -630,6 +640,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn8 {
@@ -638,6 +650,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn9 {
@@ -646,6 +660,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn10 {
@@ -654,6 +670,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn11 {
@@ -662,6 +680,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 #openBtn12 {
   text-align: center;
@@ -669,6 +689,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn13 {
@@ -677,6 +699,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn14 {
@@ -685,6 +709,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn15 {
@@ -693,6 +719,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn16 {
@@ -701,6 +729,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn17 {
@@ -709,6 +739,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn18 {
@@ -717,6 +749,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn19 {
@@ -725,6 +759,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn20 {
@@ -733,6 +769,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn21 {
@@ -741,6 +779,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn22 {
@@ -749,6 +789,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn23 {
@@ -757,6 +799,8 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
 
 #openBtn24 {
@@ -765,4 +809,21 @@ nav {
   border-radius:30px; 
   background-color:#bc776e ;
   margin: 10px;
+  height: 300px;
+  width: 400px;
 }
+
+#footer {
+  text-align: center;
+  border:  #8d5952 6px solid; 
+  border-radius:30px; 
+  background-color:#bc776e ;
+  margin: 10px;
+  height: 200px;
+  width:1580px;
+  display: flex;
+  gap: 70px;
+  padding-left:100px;
+  padding-top:40px;
+}
+
